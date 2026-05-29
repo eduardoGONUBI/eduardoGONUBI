@@ -9,9 +9,6 @@ Main focus: clean architecture, reliable APIs, distributed systems, and maintain
 - [maibunko](https://github.com/eduardoGONUBI/maibunko) - Desktop manga reader focused on legal sources and local library management.
 - [g10-TeamUP](https://github.com/eduardoGONUBI/g10-TeamUP) - Full-stack sports event platform with microservices, web, and mobile clients.
 - [uppaal-project](https://github.com/eduardoGONUBI/uppaal-project) - Formal modeling, verification, and validation of concurrent algorithms.
-- [newsServer](https://github.com/eduardoGONUBI/newsServer) - Spring-based backend project.
-- [Fall-Into-Oblivion](https://github.com/eduardoGONUBI/Fall-Into-Oblivion) - Python automation project for encryption and integrity checks.
-- [HomeBanking](https://github.com/eduardoGONUBI/HomeBanking) - Homebanking system project.
 
 ## Tech Stack
 
