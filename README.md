@@ -20,5 +20,12 @@ Main focus: clean architecture, reliable APIs, distributed systems and maintaina
 
 ## Current Work
 
+- Working on system integration and digitalization of private mining company
 - Building desktop software and backend systems
 - Improving software quality with testing and documentation
+
+## Contact
+
+I'm always open to discussing software engineering, backend systems, architecture and interesting project ideas.
+
+You can reach me through GitHub.
