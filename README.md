@@ -1,22 +1,27 @@
 # Software Engineer
 
-Early-career software engineer focused on backend and full-stack development.
+I build practical software across backend, web, and mobile.
 
-I build practical software with clean architecture, testing, and clear documentation.
+Main focus: clean architecture, reliable APIs, distributed systems, and maintainable code.
 
-## Core Stack
+## Featured Projects
 
-- Python, TypeScript, Java, PHP, SQL, Kotlin
-- Django, Laravel, Spring Boot, React, Next.js
-- PostgreSQL, Redis, Docker, Kubernetes, RabbitMQ
+- [maibunko](https://github.com/eduardoGONUBI/maibunko) - Desktop manga reader focused on legal sources and local library management.
+- [g10-TeamUP](https://github.com/eduardoGONUBI/g10-TeamUP) - Full-stack sports event platform with microservices, web, and mobile clients.
+- [uppaal-project](https://github.com/eduardoGONUBI/uppaal-project) - Formal modeling, verification, and validation of concurrent algorithms.
+- [newsServer](https://github.com/eduardoGONUBI/newsServer) - Spring-based backend project.
+- [Fall-Into-Oblivion](https://github.com/eduardoGONUBI/Fall-Into-Oblivion) - Python automation project for encryption and integrity checks.
+- [HomeBanking](https://github.com/eduardoGONUBI/HomeBanking) - Homebanking system project.
 
-## Main Interests
+## Tech Stack
 
-- Backend systems and APIs
-- Full-stack products
-- Distributed systems and automation
-- Applied AI for real software problems
+- Languages: Python, TypeScript, JavaScript, PHP, SQL, Kotlin, Java
+- Backend: Django, Laravel, Spring Boot, REST APIs, WebSockets
+- Frontend: React, Next.js, Angular
+- Data: PostgreSQL, MySQL, MongoDB, Redis
+- DevOps: Docker, Kubernetes, RabbitMQ, GitHub Actions
 
-## Current Focus
+## Current Work
 
-Building reliable software with measurable impact and maintainable code.
+- Building desktop software and backend systems
+- Improving software quality with testing and documentation
