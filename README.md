@@ -1,8 +1,8 @@
 # Software Engineer
 
-I build practical software across backend, web, and mobile.
+I build practical software across backend, web and mobile.
 
-Main focus: clean architecture, reliable APIs, distributed systems, and maintainable code.
+Main focus: clean architecture, reliable APIs, distributed systems and maintainable code.
 
 ## Featured Projects
 
