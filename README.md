@@ -6,9 +6,9 @@ Main focus: clean architecture, reliable APIs, distributed systems and maintaina
 
 ## Featured Projects
 
-- [maibunko](https://github.com/eduardoGONUBI/maibunko) - Desktop manga reader focused on legal sources and local library management.
 - [g10-TeamUP](https://github.com/eduardoGONUBI/g10-TeamUP) - Full-stack sports event platform with microservices, web, and mobile clients.
 - [uppaal-project](https://github.com/eduardoGONUBI/uppaal-project) - Formal modeling, verification, and validation of concurrent algorithms.
+- [maibunko](https://github.com/eduardoGONUBI/maibunko) - Desktop manga reader focused on legal sources and local library management.
 
 ## Tech Stack
 
